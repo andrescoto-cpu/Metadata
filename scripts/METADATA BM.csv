@@ -788,7 +788,10 @@ BM-77,BM-7,Enviar informacion Banca CIC al ws de ensemblex e integrar el nuevo s
 BM-89,BM-5,Accesos terceros ( Agencias Externas) al sistema de cobros,Prioridad 1,,,Mauricio Loria,RG,Medium,1. Riesgo/Regulatorio,4. Ciberseguridad,,,,,L,,,Riesgo & Regulatorios,Desarrollo Core
 BM-77,BM-4,Comunicaciones autom?ticas para transacciones fallidas Visa.,PRIORIZAR,Elizabeth Rodriguez,,Maria Joaquina Martinez,RG,Low,3. Mejora de servicio (percibido por cliente),2. Nuevo Feature,,,,,M,,,MultiMoney Cash,Desarrollo Core
 BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Riesgo/Regulatorio,1. Regulatorio,,,,,M,,,SYSDE,Desarrollo Core
-,INFAK-581,INC-17360,backlog,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-584,INC-17406 Problemas con la VPN,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
+,INFAK-583,INC-17426 Problemas de acceso al DNS https://client-tools-uat1.akros.tech/,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-582,INC-17434 Instalaci?n de Servidor Virtual Windows Server,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-581,INC-17360,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-580,INC-17413 Acceso a proyecto de JIRA,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
 ,INFAK-579,INC-17412 Solicitud de acceso administrativo en Google Workspace,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
 ,INFAK-578,INC-17411 Desactivar usuarios de Jos? G?mez,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
@@ -800,7 +803,7 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-572,INC-17364 Solicitud de revision intermitencia comunicacion SV Endpoint Bankingly,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-571,Solicitud de DNS SV,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-570,Eliminaci?n servidor AZE2VLDWH-SQL01 172.29.0.22,backlog,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-569,INC-17357 ACCESO A USUARIO DE SYSDE,backlog,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-569,INC-17357 ACCESO A USUARIO DE SYSDE,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-568,Crear regitros DNS de Custom Domain en AWS para publicaci?n de AppRunner en AWS.,Finalizada,,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-567,Actualizar versiones de reportes en Uc MX,Finalizada,Carlos Ten? Mili?n,,Carlos Ten? Mili?n,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-566,INC-17373 Configuracion de Switch Core para Financiera,En curso,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,04/09/2025,06/09/2025,,,,,,,Infraestructura
