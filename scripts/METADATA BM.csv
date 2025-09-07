@@ -788,6 +788,7 @@ BM-77,BM-7,Enviar informacion Banca CIC al ws de ensemblex e integrar el nuevo s
 BM-89,BM-5,Accesos terceros ( Agencias Externas) al sistema de cobros,Prioridad 1,,,Mauricio Loria,RG,Medium,1. Riesgo/Regulatorio,4. Ciberseguridad,,,,,L,,,Riesgo & Regulatorios,Desarrollo Core
 BM-77,BM-4,Comunicaciones autom?ticas para transacciones fallidas Visa.,PRIORIZAR,Elizabeth Rodriguez,,Maria Joaquina Martinez,RG,Low,3. Mejora de servicio (percibido por cliente),2. Nuevo Feature,,,,,M,,,MultiMoney Cash,Desarrollo Core
 BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Riesgo/Regulatorio,1. Regulatorio,,,,,M,,,SYSDE,Desarrollo Core
+,INFAK-587,INC-17469,Por analizar,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-586,INC-17440 ASIGNAR CAJA B01 A CELINA MORAN DE SEVILLANO  (CMORAN) PARA CUBRIR SOLO SABADO 6/9  AL CIERRE REGRESAR EL B01 A KMARTINEZ,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-585,INC-17357 ACCESO A USUARIO DE SYSDE,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-584,INC-17406 Problemas con la VPN,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
