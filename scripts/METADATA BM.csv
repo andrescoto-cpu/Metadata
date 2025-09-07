@@ -809,7 +809,7 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-569,INC-17357 ACCESO A USUARIO DE SYSDE,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-568,Crear regitros DNS de Custom Domain en AWS para publicaci?n de AppRunner en AWS.,Finalizada,,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-567,Actualizar versiones de reportes en Uc MX,Finalizada,Carlos Ten? Mili?n,,Carlos Ten? Mili?n,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-566,INC-17373 Configuracion de Switch Core para Financiera,En curso,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,04/09/2025,06/09/2025,,,,,,,Infraestructura
+,INFAK-566,INC-17373 Configuracion y cambio de Switch Core para Financiera MMCR,Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,04/09/2025,07/09/2025,,,,,,,Infraestructura
 ,INFAK-565,INC-17365 poner en funcionamiento 172.29.30.12,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-564,INC-17351 Apoyo de informacion solicitada por Auditoria Externa SV,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-563,INC-17288 AZE2VPWEB-FTP01 expuesto a Internet tiene una ruta corta a AZE2VPADC-AAK02 activo cr?tico a trav?s de vulnerabilidades explotables de forma remota (Critico),Finalizada,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
