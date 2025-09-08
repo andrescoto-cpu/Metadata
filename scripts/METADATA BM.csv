@@ -788,7 +788,10 @@ BM-77,BM-7,Enviar informacion Banca CIC al ws de ensemblex e integrar el nuevo s
 BM-89,BM-5,Accesos terceros ( Agencias Externas) al sistema de cobros,Prioridad 1,,,Mauricio Loria,RG,Medium,1. Riesgo/Regulatorio,4. Ciberseguridad,,,,,L,,,Riesgo & Regulatorios,Desarrollo Core
 BM-77,BM-4,Comunicaciones autom?ticas para transacciones fallidas Visa.,PRIORIZAR,Elizabeth Rodriguez,,Maria Joaquina Martinez,RG,Low,3. Mejora de servicio (percibido por cliente),2. Nuevo Feature,,,,,M,,,MultiMoney Cash,Desarrollo Core
 BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Riesgo/Regulatorio,1. Regulatorio,,,,,M,,,SYSDE,Desarrollo Core
-,INFAK-587,INC-17469,Por analizar,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-590,Acceso AD 172.21.10.41,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-589,INC-17485 Baja de slack,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,11/09/2025,,,,,,,Infraestructura
+,INFAK-588,Configuraci?n de VM y Copia de datos servidor temporal,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-587,INC-17469  Servicios de Monitor ,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-586,INC-17440 ASIGNAR CAJA B01 A CELINA MORAN DE SEVILLANO  (CMORAN) PARA CUBRIR SOLO SABADO 6/9  AL CIERRE REGRESAR EL B01 A KMARTINEZ,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-585,INC-17357 ACCESO A USUARIO DE SYSDE,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-584,INC-17406 Problemas con la VPN,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
@@ -799,7 +802,7 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-579,INC-17412 Solicitud de acceso administrativo en Google Workspace,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
 ,INFAK-578,INC-17411 Desactivar usuarios de Jos? G?mez,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
 ,INFAK-577,INC-17374 Nueva App en Jira,En curso,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,09/09/2025,,,,,,,Infraestructura
-,INFAK-576,INC-17340 Baja de Slack Eduardo Andres Barrientos Castellon,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
+,INFAK-576,INC-17340 Baja de Slack Eduardo Andres Barrientos Castellon,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,09/09/2025,,,,,,,Infraestructura
 ,INFAK-575,INC-17415 Conexion a servidor 172.24.10.51,Cancelada,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-574,INC-17378 Al ingresar a direccion no permite ingresar,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-573,INC-17410 Acceso a LBTR4 vm,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
@@ -819,18 +822,18 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-559,Crear Plan y Implementar contingencia uContact Guatemala Continuidad de negocio,backlog,Carlos Ten? Mili?n,,Carlos Ten? Mili?n,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-558,Campa?a CobrosIG12<-,Finalizada,Carlos Ten? Mili?n,,Carlos Ten? Mili?n,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-557,NC-17291 CLONE - AZE2VPWEB-FTP01 expuesto a Internet tiene una ruta corta a AZE2VPADC-AAK02 activo cr?tico a trav?s de vulnerabilidades explotables de forma remota (Critico),Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,03/09/2025,05/09/2025,,,,,,,Infraestructura
-,INFAK-556,INC-17304 API Drive KYC,En curso,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-556,INC-17304 API Drive KYC,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,08/09/2025,,,,,,,Infraestructura
 ,INFAK-555,INC-17213,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-554,INC-16822,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-553,INC-17238 Solicitud aumento de espacio correo y almacenamiento,En curso,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,08/09/2025,,,,,,,Infraestructura
-,INFAK-552,INC-17236 Dar de baja SLACK?s,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
-,INFAK-551,INC-17229 Compra de licencia office 365,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-553,INC-17238 Solicitud aumento de espacio correo y almacenamiento,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-552,INC-17236 Dar de baja SLACK?s,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-551,INC-17229 Compra de licencia office 365,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
 ,INFAK-550,INC-17283 Pruebas de comunicaci?n ACH para pase a PRD,Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,03/09/2025,05/09/2025,,,,,,,Infraestructura
 ,INFAK-549,"INC-17284 Creacion de plan de trabajo y levantamiento de informacion para segmentacion y encriptacion regional,",Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,03/09/2025,05/09/2025,,,,,,,Infraestructura
 ,INFAK-548,INC-17234 Reset de clave a usuario UAT,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-547,INC-17225 Solicitud de acceso a Zapier (Slack),En curso,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-546,INC-17223 Dar de baja en slack,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
-,INFAK-545,INC-17172 Solicitud de contrase?a para conexi?n a VPN,En curso,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-547,INC-17225 Solicitud de acceso a Zapier (Slack),Finalizada,Cristian Chavarria,,Cristian Chavarria,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-546,INC-17223 Dar de baja en slack,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
+,INFAK-545,INC-17172 Solicitud de contrase?a para conexi?n a VPN,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,08/09/2025,,,,,,,Infraestructura
 ,INFAK-544,Instalaci?n CS servidores faltantes,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-543,Inventario de servidores de HYPERV GT,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-542,Ajustar discos a servidor de Monitor Plus bd 172.29.0.102,Finalizada,,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
@@ -925,7 +928,7 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-453,INC-16670 Activaci?n de Enlace IFX GT NI via VPN,Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,25/08/2025,26/08/2025,,,,,,,Infraestructura
 ,INFAK-452,s INC-16718 Habilitar VPN por apagado centro de datos MM NI,Finalizada,Cristopher Zamora Cordero,,Cristopher Zamora Cordero,,Medium,,,25/08/2025,26/08/2025,,,,,,,Infraestructura
 ,INFAK-451,INC-16667 Desbloqueo del usuario de banca online,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-450,INC-16706 - Ajustar discos a servidor de Monitor Plus bd                                                ,backlog,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-450,INC-16706 - Ajustar discos a servidor de Monitor Plus bd                                                ,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-449,SV - Implementacion IFX SV DEV,En curso,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-448,INC-15374  DUO no reconoce mi conexi?n a la VPN TI,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-447,INC-16682 Baja de usuarios Slack,Finalizada,Cristian Chavarria,,Cristian Chavarria,,Low,,,,27/08/2025,,,,,,,Infraestructura
