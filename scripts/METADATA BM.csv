@@ -805,7 +805,7 @@ BM-124,BM-2,XML Pasivo,DONE,Johanna Mora Montes,,Eugenia Solano,CR,Medium,1. Rie
 ,INFAK-573,INC-17410 Acceso a LBTR4 vm,En curso,Brittany Garita P?rez,,Brittany Garita P?rez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-572,INC-17364 Solicitud de revision intermitencia comunicacion SV Endpoint Bankingly,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-571,Solicitud de DNS SV,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
-,INFAK-570,Eliminaci?n servidor AZE2VLDWH-SQL01 172.29.0.22,backlog,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
+,INFAK-570,Eliminaci?n servidor AZE2VLDWH-SQL01 172.29.0.22,Finalizada,Nelson Martinez,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-569,INC-17357 ACCESO A USUARIO DE SYSDE,Finalizada,edgar.zetino,,edgar.zetino,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-568,Crear regitros DNS de Custom Domain en AWS para publicaci?n de AppRunner en AWS.,Finalizada,,,Nelson Martinez,,Medium,,,,,,,,,,,Infraestructura
 ,INFAK-567,Actualizar versiones de reportes en Uc MX,Finalizada,Carlos Ten? Mili?n,,Carlos Ten? Mili?n,,Medium,,,,,,,,,,,Infraestructura
